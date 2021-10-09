@@ -1,4 +1,2 @@
-git rm --cached .idea/
-
+git rm --cached .idea
 .idea
-.idea/
